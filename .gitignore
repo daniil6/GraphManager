@@ -1,3 +1,7 @@
+GraphManager.mk
+GraphManager.txt
+compile_flags.txt
+
 # Prerequisites
 *.d
 
